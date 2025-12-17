@@ -151,12 +151,6 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 - 🔥 **Laravel SaaS App**  
   Multi-tenant application with authentication, roles & billing.
 
-- 🔗 **REST API Platform**  
-  Clean API architecture with Laravel Sanctum & Resources.
-
-- 🧪 **Laravel Playground**  
-  Experiments with Livewire, queues and advanced Eloquent.
-
 ---
 
 ### 📊 GitHub Stats
