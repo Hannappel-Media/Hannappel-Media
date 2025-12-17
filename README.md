@@ -43,30 +43,25 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
-
 #### 🎨 Frontend
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Blade-000?style=for-the-badge&logo=Laravel&logoColor=white)
 
-
+##### Frameworks & Libraries
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
----
 
 #### 🗄️ Databases
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
----
 
 #### ☁️ Cloud & DevOps
 
@@ -90,14 +85,10 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 ![](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
 ![](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 #### 🤖 AI & Automation
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
----
 
 #### 🔧 Tools & Workflow
 
@@ -136,20 +127,22 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 
 ### 🧩 Laravel Ecosystem
 
-- ⚙️ Eloquent ORM  
-- 🔐 Authentication & Authorization  
-- 📦 Laravel Packages  
-- 📨 Queues & Jobs  
-- 🧪 Testing (Pest)  
-- ⚡ Livewire / Blade
-- Cashier (Stripe) => Coming Soon
-- Horizon => Redis
-- Pennant
-- Pint
-- Sail
-- Scout
-- Telescope
-- Forge
+- ⚙️ **Eloquent ORM** & database modeling
+- 🔐 **Authentication & Authorization**
+- 📦 **Laravel Packages** & package integration
+- 📨 **Queues, Jobs & background processing**
+- 🧪 **Testing** with Pest
+- ⚡ **Livewire & Blade** for dynamic UIs
+
+**Laravel Tooling & Services**
+- 💳 **Cashier (Stripe)** — coming soon
+- 📊 **Horizon** (Redis-powered queue monitoring)
+- 🚩 **Pennant** (feature flags)
+- 🧹 **Pint** (code style & formatting)
+- 🐳 **Sail** (local development environment)
+- 🔍 **Scout** (full-text search)
+- 🧪 **Telescope** (debugging & insights)
+- 🚀 **Forge** (server provisioning & deployment)
 
 ---
 
@@ -169,11 +162,11 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hannappel-Media&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannappel-Media&theme=radical" />
 </p>
 
 ---
