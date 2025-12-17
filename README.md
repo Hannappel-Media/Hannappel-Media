@@ -1,5 +1,4 @@
 ![](github-header-banner.png)
-<h3 align="center">🕸️ Web Developer | Laravel Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hannappel-Media&label=%F0%9F%94%A5%20Views&color=ff2d20&style=for-the-badge" alt="profile views" />
