@@ -162,11 +162,22 @@ I love turning complex problems into **clean, scalable, and maintainable solutio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hannappel-Media&show_icons=true&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hannappel-Media&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Hannappel-Media&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannappel-Media&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannappel-Media&layout=pie&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
 
 ---
