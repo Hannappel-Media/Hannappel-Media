@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc Hannappel</h1>
+![](github-header-banner.png)
 <h3 align="center">🕸️ Web Developer | Laravel Specialist</h3>
 
 <p align="center">
